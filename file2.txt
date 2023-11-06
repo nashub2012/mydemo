@@ -1,2 +1,1 @@
 Implementing Email notification
-Welcome to Git Reset

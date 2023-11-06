@@ -1,3 +1,2 @@
 line 1
 Welcome to Git VCS
-Welcome to Git Reset
