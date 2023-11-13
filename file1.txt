@@ -1,3 +1,5 @@
 line 1
 Welcome to Git VCS
 test
+
+This is a new test for jenkins setup
