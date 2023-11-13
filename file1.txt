@@ -1,3 +1,8 @@
 line 1
 Welcome to Git VCS
+<<<<<<< HEAD
 test
+=======
+Welcome to Git Diff Scenorios
+The next tool we discuss is Maven
+>>>>>>> 6e8da674b3ee369a30bce7a41c142b8e6acc2d08
